@@ -1,0 +1,17 @@
+# HTTP 客户端 (TLS 指纹伪装) — 复用 SCRAPING_KNOWLEDGE_BASE 经验
+curl_cffi>=0.7.0
+
+# 浏览器自动化 (99.co XHR 探针 / PropertyGuru / SRX 反爬)
+playwright>=1.40.0
+
+# HTML 解析 (roomies / rentinsingapore)
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# 数据处理 & Excel 导出
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# 进度显示
+tqdm>=4.66.0
+nodriver
